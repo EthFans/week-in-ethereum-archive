@@ -14,6 +14,12 @@ EthFans
 
 ## 2020
 
+
+- [2020-05-10](https://ethfans.org/posts/week-in-ethereum-2020-05-10)
+- [2020-05-03](https://ethfans.org/posts/week-in-ethereum-2020-05-03)
+- [2020-04-26](https://ethfans.org/posts/week-in-ethereum-2020-04-26)
+- [2020-04-19](https://ethfans.org/posts/week-in-ethereum-2020-04-19)
+- [2020-04-13](https://ethfans.org/posts/week-in-ethereum-2020-04-13)
 - [2020-04-05](https://ethfans.org/posts/week-in-ethereum-2020-04-05)
 - [2020-03-29](https://ethfans.org/posts/week-in-ethereum-2020-03-29)
 - [2020-03-24](https://ethfans.org/posts/week-in-ethereum-2020-03-24)
