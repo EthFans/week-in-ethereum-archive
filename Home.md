@@ -15,8 +15,11 @@ EthFans
 ## 2020
 
 
-| [2020-10-04](https://ethfans.org/posts/week-in-ethereum-2020-10-04)| [2020-09-27](https://ethfans.org/posts/week-in-ethereum-2020-09-27)| [2020-09-20](https://ethfans.org/posts/week-in-ethereum-2020-09-20)| [2020-09-13](https://ethfans.org/posts/week-in-ethereum-2020-09-13)|
+| [2020-12-27](https://ethfans.org/posts/week-in-ethereum-2020-12-27)| [2020-12-20](https://ethfans.org/posts/week-in-ethereum-2020-12-20)| [2020-12-13](https://ethfans.org/posts/week-in-ethereum-2020-12-13)| [2020-12-06](https://ethfans.org/posts/week-in-ethereum-2020-12-06) |
 | :---: | :---: | :---: | :---: |
+| [2020-11-29](https://ethfans.org/posts/week-in-ethereum-2020-11-29)| [2020-11-22](https://ethfans.org/posts/week-in-ethereum-2020-11-22)| [2020-11-15](https://ethfans.org/posts/week-in-ethereum-2020-11-15)| [2020-11-08](https://ethfans.org/posts/week-in-ethereum-2020-11-08) |
+| [2020-11-01](https://ethfans.org/posts/week-in-ethereum-2020-11-01)| [2020-10-25](https://ethfans.org/posts/week-in-ethereum-2020-10-25)| [2020-10-18](https://ethfans.org/posts/week-in-ethereum-2020-10-18)| [2020-10-11](https://ethfans.org/posts/week-in-ethereum-2020-10-11) |
+| [2020-10-04](https://ethfans.org/posts/week-in-ethereum-2020-10-04)| [2020-09-27](https://ethfans.org/posts/week-in-ethereum-2020-09-27)| [2020-09-20](https://ethfans.org/posts/week-in-ethereum-2020-09-20)| [2020-09-13](https://ethfans.org/posts/week-in-ethereum-2020-09-13)|
 | [2020-09-06](https://ethfans.org/posts/week-in-ethereum-2020-09-06) | [2020-08-30](https://ethfans.org/posts/week-in-etherum-2020-08-30)| [2020-08-23](https://ethfans.org/posts/week-in-ethereum-2020-08-23)| [2020-08-16](https://ethfans.org/posts/week-in-ethereum-2020-08-16)|
 | [2020-08-09](https://ethfans.org/posts/week-in-ethereum-2020-08-09) | [2020-08-02](https://ethfans.org/posts/week-in-ethereum-2020-08-02)| [2020-07-26](https://ethfans.org/posts/week-in-ethereum-2020-07-26)| [2020-07-19](https://ethfans.org/posts/week-in-ethereum-2020-07-19) |
 | [2020-07-12](https://ethfans.org/posts/week-in-etherum-2020-07-12)| [2020-07-05](https://ethfans.org/posts/week-in-ethereum-2020-07-05)| [2020-06-28](https://ethfans.org/posts/week-in-ethereum-2020-06-28)| [2020-06-21](https://ethfans.org/posts/week-in-ethereum-2020-06-21) |
