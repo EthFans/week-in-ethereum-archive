@@ -12,6 +12,17 @@ EthFans
 
 ---
 
+## 2021 
+
+| [2021-05-09](https://ethfans.org/posts/week-in-ethereum-2021-05-09)| [2021-05-03](https://ethfans.org/posts/week-in-ethereum-2021-05-03)| [2021-04-26](https://ethfans.org/posts/week-in-ethereum-2021-04-26)| [2021-04-18](https://ethfans.org/posts/week-in-ethereum-2021-04-18) |
+| :---: | :---: | :---: | :---: |
+| [2021-04-11](https://ethfans.org/posts/week-in-ethereum-2021-04-11)| [2021-04-04](https://ethfans.org/posts/week-in-ethereum-2021-04-04)| [2021-03-28](https://ethfans.org/posts/week-in-ethereum-2021-03-28)| [2021-03-21](https://ethfans.org/posts/week-in-ethereum-2021-03-21) |
+| [2021-03-14](https://ethfans.org/posts/week-in-ethereum-2021-03-14)| [2021-03-07](https://ethfans.org/posts/week-in-ethereum-2021-03-07)| [2021-02-28](https://ethfans.org/posts/week-in-ethereum-2021-02-28)| [2021-02-22](https://ethfans.org/posts/week-in-ethereum-2021-02-22) |
+| [2021-02-15](https://ethfans.org/posts/week-in-ethereum-2021-02-15)| [2021-02-07](https://ethfans.org/posts/week-in-ethereum-2021-02-07)| [2021-02-01](https://ethfans.org/posts/week-in-ethereum-2021-02-01)| [2021-01-24](https://ethfans.org/posts/week-in-ethereum-2021-01-24) |
+| [2021-01-18](https://ethfans.org/posts/week-in-ethereum-2021-01-18)| [2021-01-10](https://ethfans.org/posts/week-in-ethereum-2021-01-10)| [2021-01-03](https://ethfans.org/posts/week-in-ethereum-2021-01-03) | |
+
+
+
 ## 2020
 
 
